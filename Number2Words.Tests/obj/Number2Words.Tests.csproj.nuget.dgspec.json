@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hlehr\\desktop\\number2words\\Number2Words.Tests\\Number2Words.Tests.csproj": {}
+    "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words.Tests\\Number2Words.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hlehr\\desktop\\number2words\\Number2Words.Tests\\Number2Words.Tests.csproj": {
+    "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words.Tests\\Number2Words.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hlehr\\desktop\\number2words\\Number2Words.Tests\\Number2Words.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words.Tests\\Number2Words.Tests.csproj",
         "projectName": "Number2Words.Tests",
-        "projectPath": "C:\\Users\\hlehr\\desktop\\number2words\\Number2Words.Tests\\Number2Words.Tests.csproj",
-        "packagesPath": "C:\\Users\\hlehr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hlehr\\desktop\\number2words\\Number2Words.Tests\\obj\\",
+        "projectPath": "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words.Tests\\Number2Words.Tests.csproj",
+        "packagesPath": "C:\\Users\\nalun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hlehr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nalun\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -25,7 +25,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\NumberToWords.csproj": {
+                "projectPath": "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\NumberToWords.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -51,6 +55,58 @@
               "version": "[15.9.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\NumberToWords.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\NumberToWords.csproj",
+        "projectName": "NumberToWords",
+        "projectPath": "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\NumberToWords.csproj",
+        "packagesPath": "C:\\Users\\nalun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nalun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

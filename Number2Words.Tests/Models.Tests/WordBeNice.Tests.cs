@@ -11,9 +11,8 @@ namespace Number2Words.Models.Tests
     [TestMethod]
     public void NumConvert_ConvertsSingleDigit_True()
     {
-      int userNum = 8;
-      WordBeNice word = new WordBeNice();
-      Assert.AreEqual("eight", word.NumConvert);
+      WordBeNice word = new WordBeNice(8);
+      Assert.AreEqual("eight", word.NumConvert());
     }
   }
 }

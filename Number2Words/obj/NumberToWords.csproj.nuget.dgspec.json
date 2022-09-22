@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hlehr\\desktop\\number2words\\Number2Words\\NumberToWords.csproj": {}
+    "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\NumberToWords.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hlehr\\desktop\\number2words\\Number2Words\\NumberToWords.csproj": {
+    "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\NumberToWords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hlehr\\desktop\\number2words\\Number2Words\\NumberToWords.csproj",
+        "projectUniqueName": "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\NumberToWords.csproj",
         "projectName": "NumberToWords",
-        "projectPath": "C:\\Users\\hlehr\\desktop\\number2words\\Number2Words\\NumberToWords.csproj",
-        "packagesPath": "C:\\Users\\hlehr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hlehr\\desktop\\number2words\\Number2Words\\obj\\",
+        "projectPath": "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\NumberToWords.csproj",
+        "packagesPath": "C:\\Users\\nalun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nalun\\OneDrive\\desktop\\Number2Words\\Number2Words\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hlehr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nalun\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

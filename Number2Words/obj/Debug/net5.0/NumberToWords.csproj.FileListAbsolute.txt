@@ -1,0 +1,12 @@
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\obj\Debug\net5.0\NumberToWords.csproj.AssemblyReference.cache
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\obj\Debug\net5.0\NumberToWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\obj\Debug\net5.0\NumberToWords.AssemblyInfoInputs.cache
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\obj\Debug\net5.0\NumberToWords.AssemblyInfo.cs
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\obj\Debug\net5.0\NumberToWords.csproj.CoreCompileInputs.cache
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\bin\Debug\net5.0\NumberToWords.deps.json
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\bin\Debug\net5.0\NumberToWords.dll
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\bin\Debug\net5.0\ref\NumberToWords.dll
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\bin\Debug\net5.0\NumberToWords.pdb
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\obj\Debug\net5.0\NumberToWords.dll
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\obj\Debug\net5.0\ref\NumberToWords.dll
+C:\Users\nalun\OneDrive\desktop\Number2Words\Number2Words\obj\Debug\net5.0\NumberToWords.pdb
